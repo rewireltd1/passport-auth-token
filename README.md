@@ -118,4 +118,3 @@ When `true` the token is check is case insensitive
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2014 Mike Bell
